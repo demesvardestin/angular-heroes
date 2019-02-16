@@ -1,4 +1,4 @@
-## AngularHeroes
+### Summary
 
 This is an implementation of the Angular [Tour of Heroes tutorial](https://angular.io/tutorial).
 It was generated with the Angular CLI and demonstrates the key basics of Angular 2.
