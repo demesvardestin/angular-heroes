@@ -2,13 +2,15 @@
   "name": "angular-heroes",
   "version": "0.0.0",
   "engines": {
-    "node": "10.15.1"
+    "node": "10.15.1",
+    "npm": "6.4.1"
   },
   "description": "Simple AngularJS application",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "heroku-postbuild": "ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
@@ -29,6 +31,7 @@
     "angular-in-memory-web-api": "^0.8.0",
     "core-js": "^2.5.4",
     "rxjs": "~6.3.3",
+    "typescript": "~3.2.2",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
   },

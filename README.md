@@ -1,7 +1,7 @@
 ## Summary
 
 This is an implementation of the Angular [Tour of Heroes tutorial](https://angular.io/tutorial).
-It was generated with the Angular CLI and demonstrates some fundamentals of Angular 2.
+It was generated with the Angular CLI and demonstrates some fundamentals of Angular 7.
 
 Demo - [AngularHeroes](https://angular-heroes-demo.herokuapp.com "AngularHeroes")
 ![angularheroes](https://github.com/demesvardestin/angular-heroes/raw/master/src/assets/images/angular_heroes.png "AngularHeroes")
