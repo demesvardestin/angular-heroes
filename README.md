@@ -6,6 +6,13 @@ It was generated with the Angular CLI and demonstrates some fundamentals of Angu
 Demo - [AngularHeroes](https://angular-heroes-demo.herokuapp.com "AngularHeroes")
 ![angularheroes](https://github.com/demesvardestin/angular-heroes/raw/master/src/assets/images/angular_heroes.png "AngularHeroes")
 
+## Features
+- Dashboard
+- Realtime Hero Search
+- Heroes Index
+- Hero Creation
+- Hero Profile View
+- Hero Removal
 
 ## Specs
 
