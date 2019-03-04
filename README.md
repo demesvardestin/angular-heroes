@@ -1,20 +1,20 @@
-# Angular Heroes Implementation
+# Angular Heroes
 
 ## Table of Contents
 - [Summary](https://github.com/demesvardestin/angular-heroes#summary)
 - [Features](https://github.com/demesvardestin/angular-heroes#features)
 - [Specs](https://github.com/demesvardestin/angular-heroes#specs)
-..* [Modularity](https://github.com/demesvardestin/angular-heroes#modularity)
-..* [Services](https://github.com/demesvardestin/angular-heroes#services)
-..* [HTTP](https://github.com/demesvardestin/angular-heroes#http)
-..* [Observables](https://github.com/demesvardestin/angular-heroes#modularity)
-..* [CSS](https://github.com/demesvardestin/angular-heroes#css)
+    - [Modularity](https://github.com/demesvardestin/angular-heroes#modularity)
+    - [Services](https://github.com/demesvardestin/angular-heroes#services)
+    - [HTTP](https://github.com/demesvardestin/angular-heroes#http)
+    - [Observables](https://github.com/demesvardestin/angular-heroes#modularity)
+    - [CSS](https://github.com/demesvardestin/angular-heroes#css)
 - [Runtime Issues](https://github.com/demesvardestin/angular-heroes#runtime-issues)
 - [Helpful Links and Resources](https://github.com/demesvardestin/angular-heroes#runtime-issues)
 
 ## Summary
 
-This is an implementation of the Angular [Tour of Heroes tutorial](https://angular.io/tutorial).
+This is my implementation of the Angular [Tour of Heroes tutorial](https://angular.io/tutorial).
 It was generated with the Angular CLI and demonstrates some fundamentals of Angular 7.
 
 Demo - [AngularHeroes](https://angular-heroes-demo.herokuapp.com "AngularHeroes")
